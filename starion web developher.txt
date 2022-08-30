@@ -4,3 +4,6 @@ starion web developher.
 -ikut kursus bila mentok belajar dari youtube
 -belajar php
 -belajar sql
+-belajar mengenai view
+blejar laravel
+python
