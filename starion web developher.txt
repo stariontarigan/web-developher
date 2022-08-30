@@ -3,3 +3,4 @@ starion web developher.
 -belajar javascript
 -ikut kursus bila mentok belajar dari youtube
 -belajar php
+-belajar sql
