@@ -7,3 +7,4 @@ starion web developher.
 -belajar mengenai view
 blejar laravel
 python
+-belajar react
