@@ -1,5 +1,5 @@
 starion web developher.
 -konsisten dalam belajar
--latihan mandiri
+-belajar javascript
 -ikut kursus bila mentok belajar dari youtube
 -belajar php
